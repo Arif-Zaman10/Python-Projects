@@ -21,6 +21,5 @@ This Python project is a simple turtle race game. You can place a bet on which t
 - The race uses random movements, so each game can have a different winner.
 - You can modify the `colors` and `y_position` lists to add more turtles or change the race layout.
 
-![Starting](images/turtle_race_1.png)
-
-![race is on](images/turtle_race_2.png)
+<img src="images/turtle_race_1.png" width="200" />
+<img src="images/turtle_race_2.png" width="200" />
