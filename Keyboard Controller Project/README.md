@@ -21,4 +21,5 @@ This Python project allows you to control a turtle using your keyboard. You can 
 - The turtle moves in increments of 50 pixels or degrees.
 - Press `c` anytime to reset the drawing.
 
+
 ![Sketch](images/sketch.png)
